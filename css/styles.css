@@ -8,6 +8,9 @@ h1{
     font-family: 'Arial Black';
     font-weight: bold;
     font-size: 48px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 20px;
 }
 
 h2{
@@ -29,6 +32,7 @@ label{
     margin-bottom: 10px;
     display: block;
     text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .parrafo {
     text-align: center;
@@ -45,6 +49,8 @@ button {
     background-color: rgba(54, 123, 245, 255);
     color: white;
     cursor: pointer;
+    border: none;
+    font-size: 8px;
 }
 
 button:hover {
@@ -82,8 +88,23 @@ input {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
-hr{
+hr {
     margin-top: 25px;
     margin-bottom: 25px;
-    color: rgb(202, 201, 201);
+    border: none; 
+    border-top: 1px solid rgba(202, 201, 201, 0.5); 
+}
+.bi.bi-twitter {
+    width: 40px;
+    vertical-align: middle;
+    padding-right: 65px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: rgba(54, 123, 245, 255);
+    font-size: 40px;
+}
+.logo-container {
+    text-align:right;
+    margin-bottom: 0px;
+    line-height: 0.8;
 }
