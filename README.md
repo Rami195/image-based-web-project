@@ -8,7 +8,7 @@ En este proyecto, utilicé las siguientes tecnologías:
 HTML: Para estructurar la página y definir el contenido.
 CSS: Para estilizar la página, incluyendo la disposición de los elementos, colores, tipografías y efectos visuales.
 
-<h3>Conclusión<h3/>
+<h3>Conclusion</h3>
 
 Este proyecto fue una excelente oportunidad para mejorar mis habilidades en HTML y CSS, centrándome en la creación de una interfaz de usuario funcional y estéticamente agradable. Estoy muy satisfecho con el resultado y emocionado por seguir aprendiendo y mejorando en el desarrollo de interfaces web.
-puedes verlo en
+puedes verlo en https://rami195.github.io/image-based-web-project/
